@@ -7,9 +7,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Rezume
 - 🌱 I’m currently learning Next Js/TypeScript
 - 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about Js, Python, React Js
-- 📫 How to reach me: ...
+- 📫 How to reach me: Click the links below (LinkedIn, WhatsApp, Twitter)
 - 😄 Pronouns: He
 - ⚡ Fun fact: I love writing and watching anime
 
