@@ -1,6 +1,6 @@
 ### Hi there, I'm Bobate Olusegun 👋🏾
 
-<p align='center'>I am a Frontend Engineer and Technical Writer.</p>
+I am a Frontend Engineer and Technical Writer
 
 Here are some ideas to get you started:
 
@@ -26,11 +26,6 @@ Here are some ideas to get you started:
 <a href="mailto:bobatesegun3@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
-  <img src="https://gpvc.arturio.dev/KayodeOlusi" />
-  
- <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=shegzi101&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=shegzi101&hide=css,html&theme=tokyonight">
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=shegzi">
-</p>
+  <img src="https://gpvc.arturio.dev/shegzi101" />
+ 
 </p>
