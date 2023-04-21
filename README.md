@@ -1,4 +1,4 @@
-### Hi 👋🏾 dear, I'm Bobate Olusegun 
+### Hi 👋🏾 there, I'm Bobate Olusegun 
 
 I am a Frontend Engineer and Technical Writer
 
