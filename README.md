@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about Js, Python, React Js
 - 📫 How to reach me: Click the links below (LinkedIn, WhatsApp, Twitter)
-- 😄 Pronouns: He
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love writing and watching anime
 
 <p align='center'>
