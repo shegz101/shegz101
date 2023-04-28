@@ -12,6 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love writing and watching anime
 
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=shegz101&show_icons=true&layout=compact&theme=dark)](https://github.com/shegz101)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shegz101&layout=compact&theme=dark)](https://github.com/shegz101)
+
 <p align='center'>
 <a href="https://wa.me/2348070737904?text=Hello Segun" target="_blank">
   <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
