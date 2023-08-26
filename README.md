@@ -5,7 +5,7 @@ I am a Frontend Engineer and Technical Writer
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Rezume (A resume template builder)
-- 🌱 I’m currently learning Next Js/TypeScript
+- 🌱 I’m currently learning Next Js/TypeScript and Python/Djange
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about Js, Python, React Js
 - 📫 How to reach me: Click the links below (LinkedIn, WhatsApp, Twitter)
