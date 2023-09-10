@@ -5,12 +5,12 @@ I am a Frontend Engineer and Technical Writer
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Rezume (A resume template builder)
-- 🌱 I’m currently learning Next Js/TypeScript and Python/Djange
-- 👯 I’m looking to collaborate on open source projects
+- 🌱 I’m currently learning Next JS/TypeScript and Python/Django
+- 👯 I’m looking to collaborate on open-source projects
 - 💬 Ask me about Js, Python, React Js
 - 📫 How to reach me: Click the links below (LinkedIn, WhatsApp, Twitter)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love writing (tech related articles), reading manga and watching anime
+- ⚡ Fun fact: I love writing (tech-related articles), reading manga, and watching anime
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=shegz101&show_icons=true&layout=compact&theme=dark)](https://github.com/shegz101)
 
