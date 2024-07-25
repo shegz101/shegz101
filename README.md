@@ -4,10 +4,10 @@ I am a Frontend Engineer and Technical Writer
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Rezume (A resume template builder)
-- 🌱 I’m currently learning Python
+- 🔭 I’m currently working on my passion projects
+- 🌱 I’m currently learning web3 (building smart contracts and crypto trading)
 - 👯 I’m looking to collaborate on open-source projects
-- 💬 Ask me about Js, Python, React Js, Next Js
+- 💬 Ask me about Javascript, Python, TypeScript
 - 📫 How to reach me: Click the links below (LinkedIn, WhatsApp, Twitter)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love writing (tech-related articles), reading manga, and watching anime
