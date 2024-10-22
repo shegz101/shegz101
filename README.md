@@ -5,7 +5,7 @@ I am a Frontend Engineer and Technical Writer
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my passion projects
-- 🌱 I’m currently learning web3 (building smart contracts and crypto trading)
+- 🌱 I’m currently learning Golang (I have been interested in Backend for a while now)
 - 👯 I’m looking to collaborate on open-source projects
 - 💬 Ask me about Javascript, Python, TypeScript
 - 📫 How to reach me: Click the links below (LinkedIn, WhatsApp, Twitter)
